@@ -13,9 +13,7 @@ This portfolio tracks that line of thinking across finance, manufacturing, gover
 ## What Is In This Repository
 
 - project case studies built from course assignments
-- topic notes covering major areas from the course
-- a public-safe archive of duplicate coursework representation
-- a sanitization record showing how the original files map to the public version
+- a short presentation deck for the portfolio
 
 ## Featured Work
 
@@ -38,29 +36,22 @@ This portfolio tracks that line of thinking across finance, manufacturing, gover
 - public-sector and law-enforcement applications
 - manufacturing automation and cognitive networks
 - finance use cases, including both optimization and abuse
-- healthcare, agriculture, retail, blockchain, smart cities, and media
 - human oversight in systems that should not be left on autopilot
 
 ## How The Repository Is Organized
 
 - `projects/`
-  The strongest case studies, rewritten into a format that is faster to evaluate than raw coursework files.
-- `notes/course-notes/`
-  Public-safe notes from the course, grouped by topic.
-- `resources/archive/`
-  Archive material, including a duplicate coursework representation that was preserved instead of removed.
-- `resources/sanitized-coursework/`
-  A manifest connecting the original coursework files to the sanitized public versions.
-- `resources/private-originals/`
-  Local-only copies of the original `.docx` files. This folder is excluded from git.
+  The strongest case studies and industry-facing work from the course.
+- `Slide Presentation/`
+  The presentation version of the portfolio.
 
 ## Public Version Notes
 
 The original coursework included student IDs and Office metadata. That is fine for class submission and wrong for a public repository.
 
-So this repo uses sanitized Markdown versions for publication, keeps the original `.docx` files local, and preserves the coursework without publishing unnecessary private identifiers.
+So this repo uses publication-safe files for the public version and keeps the focus on the strongest employer-facing work.
 
 ## How To Read It
 
-Start in `projects/` if you want the fastest sense of how I approach applied AI. Go to `notes/course-notes/` if you want the wider map of what I covered and how I framed the material.
+Start in `projects/` if you want the fastest sense of how I approach applied AI.
 
