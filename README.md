@@ -26,6 +26,10 @@ This portfolio tracks that line of thinking across finance, manufacturing, gover
 - [AGI in Finance Case Study](projects/agi-in-finance-case-study/README.md)
 - [AI Market Manipulation Ethics Case Study](projects/ai-market-manipulation-ethics-case-study/README.md)
 
+## Presentation
+
+- [Portfolio Slide Presentation PDF](Slide%20Presentation/Pf_WillieBreaux_ITAI_2372.pdf)
+
 ## What I Worked On
 
 - fraud detection and anomaly analysis
