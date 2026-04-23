@@ -1,9 +1,9 @@
-﻿# Public Sector Procurement Fraud Detection Case Study  Original file: `A10 Advantages of Using AI in Government and Public Sector_ Case study_Willie Breaux.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# Public Sector Procurement Fraud Detection Case Study
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Case Study: Advantages of Using AI in Government and Public Sector 
  ( Public P rocurement F raud D etection ) 
  Willie Breaux 
- ITAI 2372 – Artificial Intelligence Applications 
- 
  Introduction 
  Artificial intelligence is becoming an increasingly important tool in government and public services (Ada Lovelace Institute et al., 2021). Governance algorithms transition public financial management from reactive auditing to proactive, real-time prevention (Quantum Pulse Consulting, 2025). Public procurement is globally recognized as one of the areas most exposed to corruption due to its massive scale and complex process (OECD, 2025; Special Investigation Service of the Republic of Lithuania, 2026). Since procurement systems are vulnerable to fraud and corruption, governments are beginning to explore AI to detect suspicious patterns more quickly and accurately (OECD, 2025). A strong example is Lithuania's use of AI-driven fraud detection in public procurement, which uses machine learning to identify higher-risk contracts and systematically identify potential risk indicators (OECD, 2026; Special Investigation Service of the Republic of Lithuania, 2026). The use of AI in public procurement fraud detection shows that government agencies can protect public funds more effectively when machine learning is used as a decision-support tool rather than a replacement for professional human judgment (OECD, 2025; U.S. Government Accountability Office, 2026). 
  
@@ -49,4 +49,5 @@ Case Study: Advantages of Using AI in Government and Public Sector
  Quantum Pulse Consulting. (2025, October 31). Governance algorithms: The next frontier in public sector transparency. https://www.qpulse.tech/insights/governance-algorithms 
  Special Investigation Service of the Republic of Lithuania. (2026, February 26). AI-based pilot model for assessing corruption risks in public procurement developed. https://www.stt.lt/en/news/7481/ai-based-pilot-model-for-assessing-corruption-risks-in-public-procurement-developed:4165 
  U.S. Government Accountability Office. (2026, January 13). Fraud and improper payments: Data quality and a skilled workforce are essential for realizing artificial intelligence’s benefits (GAO-26-[redacted-student-id]). https://www.gao.gov/products/gao-26-[redacted-student-id]
+
 

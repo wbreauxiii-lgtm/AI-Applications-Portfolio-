@@ -1,9 +1,9 @@
-﻿# AGI in Finance Case Study  Original file: `A12 Case Study Leveraging Artificial General Intelligence (AGI) in Finance.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AGI in Finance Case Study
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Case Study: Leveraging Artificial General Intelligence (AGI) in Finance 
  
  Willie Breaux 
- ITAI 2372 – Artificial Intelligence Applications 
- 
  Introduction 
  Artificial General Intelligence (AGI) refers to AI that could perform at least as well as humans across most cognitive tasks. But recent research argues that AGI should be understood in terms of performance, generality, and autonomy rather than solely through hype (Morris et al., 2024, pp. 1, 4). This distinction matters because AGI is often discussed as a future breakthrough, yet many industries are already grappling with the practical effects of advanced AI today. In the finance industry, this matters bec ause financial institutions already use narrow AI for important daily functions. The financial services sector is the leading driver of AI adoption, accounting for 38% of total AI investments by 2028 (Joshi, 2025, p. 2). Total spending on AI in finance is forecast to reach $400 billion by 2027, up from $166 billion in 2023 (FSB, 2024, p. 4). These numbers show that finance is not simply experimenting with AI on the margins but is actively investing in it as part of its long-term operational strategy. Althou gh financial institutions already use narrow AI for fraud detection, compliance, underwriting, and customer support, AGI could extend those systems into broader reasoning across multiple financial tasks. It could enable institutions to process more complex information, respond more quickly to emerging threats, and support decision-making in areas where current AI systems remain limited. Yet because finance depends on trust, accountability, and stability, any move toward AGI must remain governed by transpare ncy, human oversight, and strong risk management. For that reason, the relevance of AGI to finance is not just about innovation or efficiency, but about whether more powerful systems can be introduced without weakening the reliability and integrity of the financial system. 
  
@@ -35,4 +35,5 @@ Case Study: Leveraging Artificial General Intelligence (AGI) in Finance
  Morris, M. R., Sohl-Dickstein, J., Fiedel , N., Wartkentin , T., Dafoe, A., Faust, A., Farbaret , C., & Legg, S. (2024). Levels of AGI for operationalizing progress on the path to AGI. In Proceedings of the 41st International Conference on Machine Learning . 
  National Institute of Standards and Technology. (2023). Artificial intelligence risk management framework (AI RMF 1.0) . U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1 
  Sutherland Global. (2023). From burden to business advantage: Transforming compliance with supported automation . https://www.sutherlandglobal.com/wp-content/uploads/sites/2/Transforming_AML_Compliance_whitepaper.pdf
+
 

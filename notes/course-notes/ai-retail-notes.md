@@ -1,7 +1,8 @@
-﻿# AI in Retail Notes  Original file: `A08 Class Notes Retail.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI in Retail Notes
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
  [redacted-student-id] 
- ITAI-2372 
  03 /2 8 /2026 
  AI in Retail: Class Notes 
  
@@ -51,4 +52,5 @@ Willie Breaux
  Security and AI Fraud: Synthetic identities, fake reviews, and automated bots can manipulate brand reputation and online trust. 
  V. Key Takeaway 
  Artificial intelligence is reshaping retail by improving personalization, pricing, forecasting, customer support, and security. At the same time, it raises important concerns about privacy, fairness, labor, and the loss of human-centered service.
+
 

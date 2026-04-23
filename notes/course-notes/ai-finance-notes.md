@@ -1,6 +1,7 @@
-﻿# AI in Finance Notes  Original file: `Mod notes Finances.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI in Finance Notes
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
- 14376-ITAI-2372 
  [redacted-student-id] 
  2-01-2026 
  Notes A.I. in Finance 
@@ -22,4 +23,5 @@ Willie Breaux
  Chat bots 
  NEED TO KNOW 
  Always new use cases being development
+
 

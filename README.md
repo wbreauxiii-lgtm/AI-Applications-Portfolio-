@@ -1,6 +1,6 @@
-# Willie Breaux | AI Applications Portfolio
+﻿# Willie Breaux | AI Applications Portfolio
 
-This repository is a public version of my work from `ITAI 2372 - Artificial Intelligence Applications`.
+This repository is a public version of my applied AI work developed through college coursework and refined for a professional audience.
 
 The point of this portfolio is to show how I think about AI when the stakes are real: where it helps, where it breaks, what it costs to get wrong, and what responsible deployment actually requires.
 
@@ -28,7 +28,7 @@ This portfolio tracks that line of thinking across finance, manufacturing, gover
 
 ## Presentation
 
-- [Portfolio Slide Presentation PDF](Slide%20Presentation/Pf_WillieBreaux_ITAI_2372.pdf)
+- [Portfolio Slide Presentation PDF](Slide%20Presentation/AI%20Applications%20Portfolio.pdf)
 
 ## What I Worked On
 
@@ -63,3 +63,4 @@ So this repo uses sanitized Markdown versions for publication, keeps the origina
 ## How To Read It
 
 Start in `projects/` if you want the fastest sense of how I approach applied AI. Go to `notes/course-notes/` if you want the wider map of what I covered and how I framed the material.
+

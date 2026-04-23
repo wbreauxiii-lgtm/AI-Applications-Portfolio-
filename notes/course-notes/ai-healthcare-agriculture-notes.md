@@ -1,7 +1,8 @@
-﻿# AI in Healthcare and Agriculture Notes  Original file: `A03 AI in healthcare & agriculture.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI in Healthcare and Agriculture Notes
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
  [redacted-student-id] 
- ITAI 2372 
  1/24/2026 
  
  A.I. IN HEALTHCARE & AGRICULTURE 
@@ -39,4 +40,5 @@ Willie Breaux
  Wheelchair uses maps to take the patient to the doctors' offices 
  The doctor has the patient's medical info from a signed HIPAA policy 
  2035
+
 

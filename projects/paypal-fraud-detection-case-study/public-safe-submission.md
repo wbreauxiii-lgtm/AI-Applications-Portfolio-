@@ -1,6 +1,7 @@
-﻿# PayPal Fraud Detection Case Study  Original file: `A04_SOLO_WillieBreaux_ITAI 2372.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# PayPal Fraud Detection Case Study
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
- ITAI 237 2 
  2/13/2026 
  PayPal Fraud Use Case 
  PayPal Holdings, Inc. is an American multinational financial technology company operating an online payments system in many countries that supports  online money transfers. PayPal processes millions of transactions hourly and faces evolving fraud tactics from cybercriminals, including sophisticated methods such as account takeovers, synthetic identities, and real-time attacks. Traditional rules-based systems struggle with false positives and fail to adapt quickly, leading to financial losses exceeding billions of dollars annually and eroding customer trust when legitimate payments are blocked (IBM, 2023; PayPal Holdings, Inc., 2024). Given the high volume of transactions, fraud detection is critical to protecting users and preventing financial losses. By leveraging machine learning, deep learning, and advanced analytics, A.I. can analyze large volumes of transactional data in real time, identify suspicious patterns, and predict potentially fraudulent activity before it occurs (IBM, 2023; SAS Institute Inc., 2022). 
@@ -29,4 +30,5 @@ Willie Breaux
  PayPal Holdings, Inc. (2024). Form 10-K annual report. https://investor.pypl.com 
  Reruption. (n.d.). PayPal’s deep learning fraud shield blocks billions . https://reruption.com/en/knowledge/industry-cases/paypals-deep-learning-fraud-shield-blocks-billions 
  SAS Institute Inc. (2022). Fraud detection and prevention. https://www.sas.com/en_us/insights/fraud/fraud-detection.html
+
 

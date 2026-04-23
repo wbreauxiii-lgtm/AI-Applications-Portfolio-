@@ -1,9 +1,9 @@
-﻿# AI Manufacturing Cognitive Networks Case Study  Original file: `A11 Case Study Advantages of using AI in Manufacturing Industry.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI Manufacturing Cognitive Networks Case Study
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Case Study: Advantages of using AI in Manufacturing Industry 
  ( Cognitive Networks ) 
  Willie Breaux 
- ITAI 2372 – Artificial Intelligence Applications 
- 
  Introduction 
  Artificial intelligence is becoming a major force in the manufacturing industry, helping companies improve efficiency, reduce costs, and increase product quality. Current research on industrial AI and robotics shows a shift from small pilot projects to company-wide AI adoption , sometimes described as cognitive networks . In these networks, AI analyzes large amounts of machines , production, and inspection data much faster than traditional systems. According to Lisa Schwarz (2024), some of the most important uses of AI in manufacturing include predictive maintenance and quality control, both of which help reduce downtime and improve operational performance. A real-world example is the LONGi Solar Jiaxing Lighthouse factory, where improved production and quality were achieved through AI and advanced digital tools ( LONGi Green Energy, 2024). This report will also discuss the rapid expansion of the Global Lighthouse Network, a World Economic Forum initiative that identifies sites successfully integrating artificial intelligence and Fourth Industrial Revolution technologies (World Economic Forum, 2026). 
  
@@ -39,4 +39,5 @@ Case Study: Advantages of using AI in Manufacturing Industry
  Schwarz, L. (2024, May 21). AI in manufacturing: Benefits and 15 use cases . NetSuite. https://www.netsuite.com 
  ThroughPut.ai. (2025, November 4). How global manufacturing leaders cut CO2 emissions and save millions with AI in sustainable manufacturing . ThroughPut.ai. https://throughput.ai 
  World Economic Forum. (2026, January). Global Lighthouse Network: Rewiring operations for resilience and impact at scale [White paper]. World Economic Forum. https://www.weforum.org
+
 

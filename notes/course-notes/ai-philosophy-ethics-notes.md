@@ -1,7 +1,8 @@
-﻿# AI Philosophy and Ethics Notes  Original file: `A02 class notes.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI Philosophy and Ethics Notes
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
  [redacted-student-id] 
- ITAI-2372 
  January 16, 2026 
  
  Class notes A02 
@@ -93,4 +94,5 @@ Willie Breaux
  Has A.I. Branch 
  ACT for Privacy 
  STAY GLUED ON A.I. RELEVANCE
+
 

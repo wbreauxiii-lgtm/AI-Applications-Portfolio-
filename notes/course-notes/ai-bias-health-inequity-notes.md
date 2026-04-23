@@ -1,6 +1,7 @@
-﻿# AI Bias and Health Inequity Notes  Original file: `A04 Mod 4 Notes.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI Bias and Health Inequity Notes
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
- 14376-ITAI-2372 
  [redacted-student-id] 
  2-01-2026 
  A04 Mod 04 Notes 
@@ -43,4 +44,5 @@ Willie Breaux
  Monitor the yield 
  Use of Computer Vision 
  Helps farmers make correct decision when to yield crops
+
 

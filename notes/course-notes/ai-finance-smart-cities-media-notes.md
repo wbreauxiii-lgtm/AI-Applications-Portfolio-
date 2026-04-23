@@ -1,6 +1,7 @@
-﻿# AI in Finance, Smart Cities, and Media Notes  Original file: `AI_Finance_SmartCities_Media NOTES.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI in Finance, Smart Cities, and Media Notes
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
- 14376-ITAI-2372 
  [redacted-student-id] 
  3 -01-2026 
  Artificial Intelligence Applications and Risks 
@@ -17,4 +18,5 @@ Willie Breaux
  I. AI in Media & Entertainment 
  Use cases solved A. Content Creation 1. AI-generated songs 2. Voice enhancement 3. AI music mastering 4. Automatic video recognition 5. Content recommendation systems 6. AI composition tools B. Content Contribution & Optimization 1. AI movie description generation 2. AI content moderation 3. Content optimization 4. Viewer analytics and automated reporting C. Advertising & Promotion 1. Real-time ad optimization 2. Automated creative selection 3. Behavioral targeting 4. AI-influenced purchasing decisions D. Journalism & Publishing 1. AI transcription 2. Automated note-taking 3. Template-based news generation (sports, finance, global crises) 
  Use cases being worked on E. Gaming 1. Machine learning gaming systems 2. Adaptive gaming platforms 3. Long-form AI music composition F. Risks in Media 1. Copyright ownership issues 2. Copyright infringement risks 3. Creative distortion 4. Job displacement (artists, editors, transcriptionists) 5. Bias and harmful representation 6. Misinformation and deepfakes 7. Privacy invasion and algorithmic manipulation
+
 

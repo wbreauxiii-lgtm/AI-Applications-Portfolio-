@@ -1,10 +1,11 @@
-﻿# Facial Recognition in Law Enforcement Case Study  Original file: `A09 Ethical and Society Implications of AI - Case Study.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# Facial Recognition in Law Enforcement Case Study
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Facial Recognition in Law Enforcement: Benefits, Ethical Risks, and Societal Impact 
  Willie Lee Breaux 
  04/04/2026 
  Willie Breaux 
  [redacted-student-id] 
- ITAI-2372 
  4/4/2026 
  
  Facial Recognition in Law Enforcement: Benefits, Ethical Risks, and Societal Impact 
@@ -32,4 +33,5 @@ Facial Recognition in Law Enforcement: Benefits, Ethical Risks, and Societal Imp
  Government Accountability Office. (2023, September 5). Facial recognition services: Federal law enforcement agencies should implement training and policies on civil liberties (GAO-23-[redacted-student-id]). 
  Grother, P. (2022, July). Face Recognition Vendor Test (FRVT) part 8: Summarizing demographic differentials (NIST IR 8429 ipd ). National Institute of Standards and Technology. 
  U.S. Department of Justice. (2024, December 3). Artificial intelligence and criminal justice: Final report.
+
 

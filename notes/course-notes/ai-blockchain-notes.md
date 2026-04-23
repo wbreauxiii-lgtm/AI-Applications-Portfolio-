@@ -1,7 +1,8 @@
-﻿# AI and Blockchain Notes  Original file: `class notes Blockchain.docx`  This is a public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original `.docx` remains in `resources/private-originals/` as a local, git-ignored copy. 
+﻿# AI and Blockchain Notes
+
+Public-safe text version generated from the original coursework. Student IDs and similar identifiers were redacted, and the original .docx remains in esources/private-originals/ as a local, git-ignored copy. 
 Willie Breaux 
  [redacted-student-id] 
- ITAI-2372 
  3 /2 2 /2026 
  AI & Blockchain Notes 
  Blockchain Basics 
@@ -59,4 +60,5 @@ Willie Breaux
  Decentraland (MANA) 1. Virtual world with NFT-based land/assets 
  The Sandbox (SAND) 1. Metaverse platform using NFT assets 
  Immutable X (IMX) 1. Layer-2 solution focused on NFT scaling (gas-free minting)
+
 
