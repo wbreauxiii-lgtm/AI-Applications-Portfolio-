@@ -1,0 +1,16 @@
+# Raw coursework files kept local but excluded from the public repo
+*.docx
+
+# Private local archive of original files
+resources/private-originals/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+
+# Python and notebook artifacts if added later
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
