@@ -28,7 +28,7 @@ This portfolio tracks that line of thinking across finance, manufacturing, gover
 
 ## Presentation
 
-- [Portfolio Slide Presentation PDF](Slide%20Presentation/AI%20Applications%20Portfolio.pdf)
+- [Portfolio Slide Presentation PowerPoint](Slide%20Presentation/AI%20Application%20Portfolio.pptx)
 
 ## What I Worked On
 

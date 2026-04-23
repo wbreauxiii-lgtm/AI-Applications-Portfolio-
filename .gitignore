@@ -1,5 +1,6 @@
 # Raw coursework files kept local but excluded from the public repo
 *.docx
+Slide Presentation/*.pdf
 
 # Private local archive of original files
 resources/private-originals/
